@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FireWorm
+  m_Controller: {fileID: 9100000, guid: b76a1411eb9905b4999298250ad7f31a, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: f90c2b67029bb0b42bd9f4c9b7ca30ad, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b262fc95788493a4aabb2c63052c3536, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c3a48f70f796c934b8d645df2291e1d0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: fe0c5bb9939188f40bf9b8f148ef438a, type: 2}
