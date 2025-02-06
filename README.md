@@ -1,4 +1,4 @@
-# Samurai Legends 🎮🗡️
+# Samurai 🎮🗡️
 --------------------------
 Welcome to **Samurai Legends**! 🗡️ This is an **action-packed 2D side-scrolling adventure** where players take on the role of a **samurai warrior**, battling through multiple levels, collecting coins, and unlocking powerful characters. With **fluid animations, strategic combat, and a storage system for earned rewards**, this game delivers a deeply immersive experience.
 
