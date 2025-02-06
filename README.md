@@ -58,3 +58,8 @@ As I developed this game, I focused on refining **fluid combat mechanics**, bala
 
 This project remains a **milestone in my freelancing career**, showcasing how my skills evolved and how I tackled complex gameplay mechanics early in my journey. 🚀
 
+🎮 Demo 🎮
+
+Windows Demo: Available in /Game/Windows
+
+Android Demo: Available in /Game/APK
